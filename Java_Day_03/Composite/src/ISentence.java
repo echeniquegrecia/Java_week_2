@@ -1,0 +1,4 @@
+interface ISentence {
+
+    void print();
+}
